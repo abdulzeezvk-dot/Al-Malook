@@ -20,7 +20,7 @@
   background-image: linear-gradient(
     rgba(0, 0, 0, 0.805),
     rgba(32, 66, 199, 0.7)
-  ), url("/Images/engineer.jpeg");
+  ), url("../Images/engineer.jpeg");
   background-position: center;
   background-size: cover;
   position: relative;

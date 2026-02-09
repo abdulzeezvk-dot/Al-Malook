@@ -212,9 +212,18 @@ nav img {
 }
 
 /* TIMELINE SECTION */
-.timeline-section {
+/* .timeline-section {
   position: relative;
-  background: url("Images/timeline-bg.jpg") center/cover no-repeat;
+  background-image: url("../Images/TIMELINE.png");
+  padding: 100px 20px;
+  color: #fff;
+} */
+ .timeline-section {
+  position: relative;
+  background-image: url("../Images/TIMELINE.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   padding: 100px 20px;
   color: #fff;
 }
