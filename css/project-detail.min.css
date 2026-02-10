@@ -26,6 +26,7 @@
   justify-content: space-between;
   align-items: center;
   background-image: linear-gradient(rgb(32 66 199 / 64%), rgba(32, 66, 199, 0.7));
+  padding: 0 20px;
 }
 nav img {
     width: 70px;
